@@ -1,0 +1,6 @@
+.navbar { display: flex; justify-content: space-between; padding: 20px; background: #fff; }
+.nav-links { display: flex; list-style: none; }
+.nav-links li { margin-right: 20px; }
+.auth-buttons button { margin-left: 10px; padding: 10px 15px; }
+.sign-up { background-color: #004aad; color: #fff; }
+.log-in { background-color: #0073e6; color: #fff; }
